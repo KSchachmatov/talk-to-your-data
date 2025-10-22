@@ -10,10 +10,11 @@ wheels/
 .venv
 
 # Environment variable files
-.env
+secrets.toml
 
 # data
 data/*.csv
 
 _tmp.py
 _tmp.ipynb
+
